@@ -1,0 +1,10 @@
+c:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joseph\documents\visual studio 2013\Projects\Part11\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
